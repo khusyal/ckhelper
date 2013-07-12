@@ -1,5 +1,4 @@
 <?php class CkHelper extends Helper {
-
     public $helpers = array('Form');
 
 	/**
